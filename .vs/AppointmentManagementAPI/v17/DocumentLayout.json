@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|c:\\users\\antaryami spikewell\\onedrive\\desktop\\appointmentmanagementapi\\appointmentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F606E723-677C-41D4-9DB2-7DDF9E72D058}|AppointmentManagementAPI\\AppointmentManagementAPI.csproj|solutionrelative:appointmentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:36:25.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:28:08.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Services\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Services\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:27:52.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:23:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:21:18.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:20:36.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\DTOs\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\DTOs\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\DTOs\\AppointmentDto.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\DTOs\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:19:44.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Models\\Appointment.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:18:52.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:17:23.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\Program.cs",
+              "RelativeToolTip": "AppointmentManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:03:13.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Antaryami Spikewell\\OneDrive\\Desktop\\AppointmentManagementAPI\\AppointmentManagementAPI\\appsettings.json",
+              "RelativeToolTip": "AppointmentManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T04:55:39.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
